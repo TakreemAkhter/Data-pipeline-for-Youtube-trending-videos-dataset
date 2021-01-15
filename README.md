@@ -1,6 +1,10 @@
 # Data-pipeline-for-Youtube-trending-videos-dataset
 For India
 
+### You can view it by:-
+### 1. Downloading the html file provided.
+### 2. Goto: [https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1294872003561177/2970472917297418/7024709780737754/latest.html](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1294872003561177/2970472917297418/7024709780737754/latest.html)
+
 The dataset for the Indian YouTube trending page is not proper to perform insightful analysis. So, I created a ETL pipeline to clean-up the dataset and make it easier to perform analysis.
 
 YouTube (the world-famous video sharing website) maintains a list of the [top trending videos](https://www.youtube.com/feed/trending) on the platform. [According to Variety magazine](http://variety.com/2017/digital/news/youtube-2017-top-trending-videos-music-videos-1202631416/), “To determine the year’s top-trending videos, YouTube uses a combination of factors including measuring users interactions (number of views, shares, comments and likes). Note that they’re not the most-viewed videos overall for the calendar year”. Top performers on the YouTube trending list are music videos (such as the famously virile “Gangam Style”), celebrity and/or reality TV performances, and the random dude-with-a-camera viral videos that YouTube is well-known for.
